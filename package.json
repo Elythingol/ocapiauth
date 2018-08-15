@@ -1,5 +1,5 @@
 {
-  "name": "ocapiauth",
+  "name": "ocapi-auth",
   "version": "1.0.0",
   "description": "Module provide JWT and OAUTH2 authorization for Salesforce Commerce Cloud OCAPI",
   "main": "ocapiAuth",

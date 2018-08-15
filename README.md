@@ -1,4 +1,4 @@
-# OcapiAuth.js
+# ocapi-auth
 
 Simple no dependency module, which provide jwt or oauth2 authentication for Salesforce Commerce Cloud (Demandware) OCAPI
 
@@ -21,12 +21,12 @@ Simple no dependency module, which provide jwt or oauth2 authentication for Sale
 
 ## Installation
 
-`$ npm i ocapiauth`
+`$ npm i ocapi-auth`
 
 ## Usage
 
 ```javascript
-const { createJwtToken } = require('ocapiauth')
+const { createJwtToken } = require('ocapi-auth')
   
 const jwt = await createJwtToken({
   hostname: 'test.sandbox.com',
