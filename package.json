@@ -1,0 +1,16 @@
+{
+  "name": "ocapiauth",
+  "version": "1.0.0",
+  "description": "Module provide JWT and OAUTH2 authorization for Salesforce Commerce Cloud OCAPI",
+  "main": "ocapiAuth",
+  "author": "Sergiy Ryazanov",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.4"
+  },
+  "keywords": [
+    "ocapi",
+    "demandware",
+    "scc"
+  ]
+}
